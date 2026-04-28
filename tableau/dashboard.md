@@ -2,7 +2,7 @@
 
 ---
 
-# 🔗 Published Dashboard Link
+# 🔗 Published Dashboard
 
 | Dashboard | Status | 
 |---------|--------|
