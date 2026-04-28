@@ -158,7 +158,7 @@ jupyter notebook notebooks/01_data_sourcing.ipynb
 
 ## 📋 Tableau Dashboard
 
-See [`tableau/dashboard_links.md`](tableau/dashboard_links.md) for live dashboard links and screenshots.
+See [`tableau/dashboard.md`](tableau/dashboard.md) for live dashboard Information and screenshots.
 
 ---
 
